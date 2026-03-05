@@ -1,4 +1,3 @@
 ## Hi, I'm Murilo...
 
-
-<i class="devicon-vscode-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
