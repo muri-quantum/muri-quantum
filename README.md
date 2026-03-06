@@ -1,8 +1,9 @@
 <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=707070&height=120&section=header"/> </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=707070&width=700&lines=Olá,+eu+sou+Murilo;Estudante+de+Informática;Apaixonado+por+Tecnologia" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=707070&width=800&lines=Olá,+eu+sou+Murilo;Estudante+de+Informática;Apaixonado+por+Tecnologia" alt="Typing SVG"/>
 </div>
+
 
 
 
