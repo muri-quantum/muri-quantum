@@ -1,7 +1,7 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=header"/> </div>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A0000F&height=120&section=header"/> </div>
 
-
-  <h1> Bem-vindo ao meu perfil! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋🏻" width="32" height="32"></h1>
+<div align="center">
+  <h1> Welcome to my profile! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋🏻" width="32" height="32"></h1>
 ---
 
 ### 🚀 Tecnologias e Ferramentas
@@ -16,3 +16,6 @@
 </div>
   
 ---
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A0000&height=120&section=footer"/>
+</div>
