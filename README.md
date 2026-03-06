@@ -1,5 +1,7 @@
 ## Hi, I'm Murilo...
 
+---
+
 ### 🚀 Tecnologias e Ferramentas
 <div style="display: flex; gap: 10px;">
   <!-- VS Code -->
@@ -16,6 +18,3 @@
 </div>
 
 ---
-
-### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muri-quantum&show_icons=true&theme=radical)
