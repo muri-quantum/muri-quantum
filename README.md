@@ -1,9 +1,9 @@
 <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=707070&height=120&section=header"/> </div>
 
 <div align="center">
-  <h1> Bem-vindo ao meu perfil! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋🏻" width="32" height="32"></h1>
+  <h1> Welcome to my profile! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋🏻" width="32" height="32"></h1>
 
-  Olá, meu nome é <strong>José Satiro de Lima</strong>, tenho 17 anos e sou natural do Ceará.<br>
+  Olá, meu nome é <strong>Murilo Belizário</strong>, tenho 16 anos.<br>
   Atualmente, estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, curso técnico em informática.
 </div>
 
