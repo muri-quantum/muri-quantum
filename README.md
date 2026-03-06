@@ -1,6 +1,6 @@
 <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=707070&height=120&section=header"/> </div>
 
-
+<p align="center">
 
   Olá, meu nome é <strong>Murilo Belizário</strong>, tenho 16 anos.<br>
   Atualmente, estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, curso técnico em informática.
