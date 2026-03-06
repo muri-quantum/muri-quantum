@@ -7,9 +7,8 @@
   Atualmente, estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, curso técnico em informática.
 </div>
 
-
-### 🚀 Tecnologias e Ferramentas
 <p align="center">
+### 🚀 Tecnologias e Ferramentas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
