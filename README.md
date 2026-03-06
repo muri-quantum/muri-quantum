@@ -1,7 +1,7 @@
 <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=707070&height=120&section=header"/> </div>
 
 <div align="center">
-  <h1> Welcome to my profile! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋🏻" width="32" height="32"></h1>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=700&color=88cdf6&width=1000&lines=Olá,+sou+Arthur+Herbster!🏆;Desenvolvedor+de+Software!💻)](https://git.io/typing-svg)
 
   Olá, meu nome é <strong>Murilo Belizário</strong>, tenho 16 anos.<br>
   Atualmente, estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, curso técnico em informática.
