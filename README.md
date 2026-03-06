@@ -3,6 +3,10 @@
 <div align="center">
   <h1> Welcome to my profile! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋🏻" width="32" height="32"></h1>
 
+  Olá, meu nome é <strong>Murilo Belizário</strong>, tenho 16 anos.<br>
+  Atualmente, estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, curso técnico em informática.
+</div>
+
 
 ### 🚀 Tecnologias e Ferramentas
 <div style="display: flex; gap: 10px;">
