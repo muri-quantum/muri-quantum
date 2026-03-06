@@ -2,9 +2,6 @@
 
 <div align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=707070&width=435&lines=Hi%2C+I'm+Beliz%C3%A1rio)](https://git.io/typing-svg)
-
-  Olá, meu nome é <strong>Murilo Belizário</strong>, tenho 16 anos.<br>
-  Atualmente, estou cursando o ensino médio no <strong>Instituto Federal de Maranguape</strong>, curso técnico em informática.
 </div>
 
 ---
